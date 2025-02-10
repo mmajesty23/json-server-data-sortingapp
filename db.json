@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "nama": "tas",
+      "quantity": 6,
+      "created_at": 1739027063
+    },
+    {
+      "nama": "buku",
+      "quantity": 3,
+      "created_at": 1739027149
+    },
+    {
+      "nama": "baju",
+      "quantity": 1,
+      "created_at": 1739023423
+    },
+    {
+      "nama": "Handphone",
+      "quantity": 764,
+      "created_at": 1284623423
+    },
+    {
+      "nama": "Tumbler",
+      "quantity": 272,
+      "created_at": 1637423423
+    },
+    {
+      "nama": "Topi",
+      "quantity": 293,
+      "created_at": 1723736253
+    },
+    {
+      "nama": "Meja",
+      "quantity": 29,
+      "created_at": 1626392392
+    },
+    {
+      "nama": "Charger",
+      "quantity": 203,
+      "created_at": 1518273647
+    },
+    {
+      "nama": "Computer",
+      "quantity": 283,
+      "created_at": 1538293849
+    },
+    {
+      "nama": "gelas",
+      "quantity": 88,
+      "created_at": 1739023840
+    }
+  ],
+  "button_list": [
+    {
+      "btn_name": "sort a to z",
+      "btn_value": "ascendingName"
+    },
+    {
+      "btn_name": "sort z to a",
+      "btn_value": "descendingName"
+    },
+    {
+      "btn_name": "sort lowest to highest_quantity",
+      "btn_value": "ascendingQuantity"
+    },
+    {
+      "btn_name": "sort highest to lowest quantity",
+      "btn_value": "descendingQuantity"
+    },
+    {
+      "btn_name": "sort newest data",
+      "btn_value": "ascendingDate"
+    },
+    {
+      "btn_name": "sort latest data",
+      "btn_value": "descendingDate"
+    }
+  ]
+}
